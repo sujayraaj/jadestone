@@ -1,6 +1,6 @@
 {
   "name": "nyun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small, fast and minimalist rendering engine for expressJS",
   "main": "index.js",
   "scripts": {
