@@ -11,6 +11,8 @@ $ npm install nyun --save
 
 ## Usage
 
+A nyun template is basically a string template embedded with variables. anything inside ${} is evaluated. Notice the backticks :D
+
 Below is a quick example how to use nyun with express:
 
 ### app.js
